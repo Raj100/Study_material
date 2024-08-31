@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-div{
+    height: 100vh;
+    width: 100%;
+    padding: 10% 25%;
+    box-sizing: border-box;
+}
+.btn{
+    background: linear-gradient(to right, red,green);
+    width: 100%;
+    padding: 10px;
+    color: white;
+}
+.image{
+    width: 100%;
+    height: 100%;
+}
